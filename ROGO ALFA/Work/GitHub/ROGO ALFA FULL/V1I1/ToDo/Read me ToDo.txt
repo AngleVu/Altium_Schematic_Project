@@ -1,0 +1,42 @@
+Thu muc chua file log lai cac thay doi can phai thuc hien trong phien ban tiep theo, nhung loi mac phai trong phien ban nay
+
+Schematic:
+- Thieu Chan IR_OUT tu chip ST vao ULN2003
+- Treo chan BOOT cua ST bang tro 10K xuong GND
+- Bo button
+- Bo khoi nguon LM1117-3.3V
+- Bo khoi EEPROM AT24C04
+- Bo khoi nhiet do do am HTS221
+- Bo cac tro tu lien quan toi I2C
+
+- Bo khoi tran phat led trong IR thu
+- Chinh lai chan nguon VCC vao chan led IR_THU
+
+
+- Bo tu 104 o khoi Reset cho moudle BLE
+- Bo jump Reset tu BLE-ST
+
+- Them khoi Tran dung de turn on/off den LED
+- Thay doi phan nguon sao cho tuong thich voi dung PIN va khong dung PIN
+
+Can nghien cuu them
+- Nguon sac cho pin Lithium
+- Cau phan ap do ap cua PIN
+
+
+PCB:
+- Hinh dang va kich thuoc mach thay doi de ve hinh tron, duong kinh la 60mm
+- Doi vi tri led vao giua
+- Dat vi tri cac tu o sat voi vi dieu khien
+- Thay doi lai vi tri led bao hieu
+- Thay doi lai cable USB sac pin
+- Thay doi jump nap tu loai cam sang loai dan
+
+Production:
+
+
+
+
+Firmware:
+
+
