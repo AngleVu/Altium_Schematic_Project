@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=1
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -192,26 +192,22 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=
-Value=
-
-[Parameter2]
 Name=Version
 Value=V2I1
 
-[Parameter3]
+[Parameter2]
 Name=NameProject
-Value=ROGO ALFA 
+Value=ROGO ALFA
 
-[Parameter4]
+[Parameter3]
 Name=CName
 Value=FPT-FTI Corporation
 
-[Parameter5]
+[Parameter4]
 Name=addressName2
 Value=Duy Tan, Cau Giay, Ha Noi
 
-[Parameter6]
+[Parameter5]
 Name=addressName1
 Value=4 Floors, FPT Building
 
