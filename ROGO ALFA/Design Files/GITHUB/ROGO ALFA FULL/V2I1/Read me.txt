@@ -1,0 +1,2 @@
+Thu muc nay dat cac files thiet ke Altium
+Sau khi release phien ban nay, giu lai voi bat ky yeu cau nao thay doi trong thu muc TODO

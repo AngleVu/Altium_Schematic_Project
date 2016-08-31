@@ -1,1 +1,4 @@
 *.SchLib.Zip
+*.Zip
+*.PcbDocPreview
+*.SchDocPreview
