@@ -1,7 +1,16 @@
 *.SchLib.Zip
-*.Zip
+*.PcbLib.Zip
 *.PcbDocPreview
 *.SchDocPreview
 ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/ALTIUM_LIB/ALTIUM_LIB.rar
 ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/AngleVu.PcbLib
 ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/AngleVu.SchLib
+ROGO ALFA/Work/GitHub/ROGO ALFA FULL/V2I1/Project Logs for ROGO_ALFA_FULL_V2I1/
+ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/ALTIUM_LIB/History/
+ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/ALTIUM_LIB/Cty1.PcbLib
+ROGO ALFA/Work/GitHub/ROGO ALFA FULL/V2I1/History/
+ROGO ALFA/Released Files/_ClientName_/_ProjectName_/History/
+ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/ALTIUM_LIB/Cty1.SchLib
+ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/Cty1.PcbLib
+ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/ALTIUM_LIB/lib.PcbLib
+ROGO ALFA/Design Files/! Altium Specific Files/Altium Integrated Library/Altium_LIB/ALTIUM_LIB/lib.SchLib
